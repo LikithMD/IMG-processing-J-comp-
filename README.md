@@ -1,6 +1,6 @@
 # IMG-processing-J-comp
 
-## This project is done by 19BCE1499(Vishwanath B Bhat)  Likith M D(19BCE1668)  C R Dhruv(19BCE1476)
+## This project is done by Likith M D(19BCE1668)  Vishwanath B Bhat(19BCE1499)  C R Dhruv(19BCE1476)
 
 ### Steps to run the program
 * Download the repo
